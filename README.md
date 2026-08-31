@@ -4,4 +4,4 @@
 
 - The dashboard was developed in Power BI, with a interactive look, allowing dynamic filters to support strategic decision-making.
 
-<img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/3f5db7d1-df58-436a-8770-c4f0f873c8cb" />
+<img width="1340" height="747" alt="image" src="https://github.com/user-attachments/assets/b9693bf8-5b97-45d9-bca2-ccecac5fcbcb" />
